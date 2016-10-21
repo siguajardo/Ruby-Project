@@ -1,3 +1,5 @@
+#This may look the same as other students
+#Worked with Mathew Gutierrez, Nick Proctor, Alex Espinosa, and kathleen Sinor
 require "./way.rb"
 
 reqfile = Hash.new(0)
