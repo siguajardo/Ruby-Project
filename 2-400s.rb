@@ -2,6 +2,8 @@ require "./way.rb"
 
 counter = 0.0
 
+#This may look the same as other students
+#Worked with Mathew Gutierrez, Nick Proctor, Alex Espinosa, and kathleen Sinor
 File.open("http_access_log" , "r") do |file|
   file.each do |line|
     if line.sinclude
