@@ -1,3 +1,5 @@
+#This may look the same as other students
+#Worked with Mathew Gutierrez, Nick Proctor, Alex Espinosa, and kathleen Sinor
 puts "To begin press enter...Hopefully this works when you Clone our repo."
 answer = gets
 
